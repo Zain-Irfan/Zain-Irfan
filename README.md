@@ -36,6 +36,7 @@ I build web applications and Shopify apps end to end — from polished interface
 
 ### Open source
 
+- [**restaurant-management-system**](https://github.com/Zain-Irfan/restaurant-management-system) — Laravel 12 + React restaurant system: POS, kitchen view, recipes, ingredient inventory, purchasing and role-based access
 - [**laravel-shopify-app-starter**](https://github.com/Zain-Irfan/laravel-shopify-app-starter) — embedded Shopify app starter: OAuth, session tokens, webhook HMAC verification, billing, Polaris UI
 - [**laravel-rbac-audit-starter**](https://github.com/Zain-Irfan/laravel-rbac-audit-starter) — roles &amp; permissions built from scratch, field-level permissions and a full audit log
 - [**shopify-order-dispatch-demo**](https://github.com/Zain-Irfan/shopify-order-dispatch-demo) — Shopify webhooks → Laravel queue → dispatch dashboard → driver API
