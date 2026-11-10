@@ -20,6 +20,7 @@ I build web applications and Shopify apps end to end — from polished interface
 - 🛍️ **Shopify apps** — public and custom apps on the Admin API, webhooks, Polaris and App Bridge
 - 🧱 **Laravel applications** — business portals, admin dashboards, REST APIs, roles &amp; permissions, audit trails
 - 🔌 **Integrations** — connecting Shopify, payment gateways and third-party services through APIs and webhooks
+- ✨ **AI automation** — OpenAI-powered features such as bulk product SEO, descriptions and specs generated from real product data and datasheets, with human review
 - ⚛️ **Frontends** — React and Next.js on top of Laravel APIs
 - 🤖 **AI-assisted development** — I use Claude Code and Cursor daily to ship faster, while owning the architecture and code quality
 
@@ -29,7 +30,7 @@ I build web applications and Shopify apps end to end — from polished interface
 |---|---|
 | [**Meta SEO Boost**](https://apps.shopify.com/critical-sales-boost-seo) | Public Shopify App Store app (Laravel + Polaris) — bulk-updates SEO titles and meta descriptions across a store's catalog, with a log of every run |
 | [**Shopify delivery platform**](https://zain-irfan.vercel.app/projects/haligone-shopify-delivery-platform) | Shopify app + Laravel admin dashboard + driver app that automates local delivery from order to doorstep |
-| [**Estimate App**](https://zain-irfan.vercel.app/projects/estimate-app) | React + Laravel platform turning approved estimates into Shopify orders, with commissions and audit logs |
+| [**Estimate App**](https://zain-irfan.vercel.app/projects/estimate-app) | React + Laravel operations platform for a Shopify retailer — estimates to orders, commissions, purchasing, inventory, CRM — with an OpenAI module that writes catalog content |
 | [**More case studies →**](https://zain-irfan.vercel.app/#projects) | Laravel portals, Shopify integrations and business websites |
 
 > Most of my client work lives in private repositories. The open-source projects below show how I build.
@@ -56,11 +57,12 @@ I build web applications and Shopify apps end to end — from polished interface
   <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
   <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white">
   <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white">
   <img alt="Cursor" src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white">
 </p>
 
 ### Let's work together
 
-I'm available for Laravel, Shopify app and integration projects — freelance or full-time.
+I'm available for Laravel, Shopify app, AI automation and integration projects — freelance or full-time.
 Reach me at **zain.irfan4442@gmail.com** or through my [portfolio](https://zain-irfan.vercel.app/#contact).
